@@ -29,7 +29,8 @@ Kelas : TI.24.A1
 - Perulangan Dowhile
   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f81dd3bd-6603-4324-937c-b6c1c0f579ca" />
 - Tugas
-  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3251b6c3-02ea-4060-81cd-d7d0903d32e4" />
+   <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b49a32a-ce6e-4d9d-a6a8-06a882e045cb" />
+
 
 
 
